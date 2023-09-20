@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Ways\Ways\bin\Debug\net6.0\Ways.exe
+C:\Users\User\source\repos\Ways\Ways\bin\Debug\net6.0\Ways.deps.json
+C:\Users\User\source\repos\Ways\Ways\bin\Debug\net6.0\Ways.runtimeconfig.json
+C:\Users\User\source\repos\Ways\Ways\bin\Debug\net6.0\Ways.dll
+C:\Users\User\source\repos\Ways\Ways\bin\Debug\net6.0\Ways.pdb
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\Ways.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\Ways.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\Ways.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\Ways.AssemblyInfo.cs
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\Ways.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\Ways.dll
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\refint\Ways.dll
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\Ways.pdb
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\Ways.genruntimeconfig.cache
+C:\Users\User\source\repos\Ways\Ways\obj\Debug\net6.0\ref\Ways.dll
